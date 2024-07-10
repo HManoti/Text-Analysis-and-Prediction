@@ -5,7 +5,6 @@ import nltk
 from nltk.corpus import stopwords
 import re
 
-# Download stopwords if not already downloaded
 nltk.download('stopwords')
 
 # Initialize sentiment analysis and keyword extraction pipelines
